@@ -17,9 +17,15 @@
 - summary: |
     Проверка работы фильтра по производителю
   status: pass
-  - summary: |
+- summary: |
      Проверка работы фильтра по цене
   status: pass
 - summary: |
     Проверка работы поиска товаров
+  status: pass
+- summary: |
+     Проверка работы сайта на русском языке
+  status: fail
+- summary: |
+    Проверка работы сайта на английском языке
   status: pass
