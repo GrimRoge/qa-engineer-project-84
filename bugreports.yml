@@ -5,7 +5,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
   expected-result: |
     На странице должна быть кнопка регистрации
   actual-result: |
@@ -16,7 +16,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
   expected-result: |
     На странице должна быть кнопка авторизации
   actual-result: |
@@ -27,7 +27,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
     2. Изменить язык отображения на английский
     3. Открыть выпадающий список нажав на "Категория"
   expected-result: |
@@ -40,7 +40,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
     2. Нажать на выпадающий список языков
   expected-result: |
     Появится выпадающий список языков с флагами и названием
@@ -52,7 +52,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
     2. Убрать галочку с пункта "В наличии" в боковой панели фильтров
   expected-result: |
     Отображаюся все товары (которые есть в наличии и которых нет)
@@ -64,7 +64,7 @@
     Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
     ОС Windows 10
   steps-to-reproduce: |
-    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    1. Зайти на главную страницу https://hexlet-products-store.vercel.app/
   expected-result: |
     Нет кнопки предыдущая (страница) на первой странице товаров
   actual-result: |
