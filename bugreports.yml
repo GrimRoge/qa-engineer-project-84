@@ -1,0 +1,49 @@
+---
+- summary: |
+    Нет функционала регистрации на сайте
+  environment: |
+    Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+  expected-result: |
+    На странице должна быть кнопка регистрации
+  actual-result: |
+    На странице нет кнопки регистрации
+- summary: |
+    Нет функционала авторизации на сайте
+  environment: |
+    Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+  expected-result: |
+    На странице должна быть кнопка авторизации
+  actual-result: |
+    На странице нет кнопки авторизации
+- summary: |
+    Категории не отображаются на русском языке
+  environment: |
+    Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    2. Изменить язык отображения на английский
+    3. Открыть выпадающий список нажав на "Категория"
+  expected-result: |
+    Появится выпадающий список категорий на русском языке
+  actual-result: |
+    Выпадающий список категорий на английском языке
+- summary: |
+    Не отображается флаг английского языка
+  environment: |
+    Google Chrome   114.0.5735.134 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти главную страницу https://hexlet-products-store.vercel.app/
+    2. Нажать на выпадающий список языков
+  expected-result: |
+    Появится выпадающий список языков с флагами и названием
+  actual-result: |
+    Рядом с английским языком отсутствует флаг
+
